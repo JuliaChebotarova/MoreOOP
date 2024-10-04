@@ -49,6 +49,4 @@ public class Character {
         sb.append('}');
         return sb.toString();
     }
-
-    
 }
